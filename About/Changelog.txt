@@ -1,4 +1,7 @@
 # Changelog for ZeroTechStory
 
+1.0.1.0 - Fixed the illegal character in the empty storyteller label
+
+
 1.0.0.0 - First publish
 

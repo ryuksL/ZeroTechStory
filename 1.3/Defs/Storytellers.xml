@@ -376,7 +376,7 @@
   </StorytellerDef>
   <StorytellerDef ParentName="BaseStoryteller">
     <defName>LingStoryteller_Blank</defName>
-    <label>[空白]</label>
+    <label>(空白)</label>
     <description>希望,绝望,这里都没有,唯一存在的是...无尽的平静</description>
     <portraitLarge>Blank</portraitLarge>
     <portraitTiny>Blank</portraitTiny>
